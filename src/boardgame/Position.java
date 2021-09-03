@@ -4,7 +4,7 @@ public class Position {
 	private Integer row;
 	private Integer column;
 
-	// Construct
+	// Constructor
 	public Position(Integer row, Integer column) {
 		this.row = row;
 		this.column = column;
